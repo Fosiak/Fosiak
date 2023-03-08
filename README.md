@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fosiak
-- 👀 I’m interested in I'm interested in Programming and motorcycles
+- 👀 I’m interested in Programming and motorcycles
 - 🌱 I am currently learning JavaScript and the basics of PHP
 - 💞️ I want to cooperate with an IT company
 - 📫 How to reach me maticraft580@gmail.com
