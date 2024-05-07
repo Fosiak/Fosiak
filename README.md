@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fosiak
 - 👀 I’m interested in Programming and motorcycles
-- 🌱 I am currently learning JavaScript and the basics of PHP
+- 🌱 I am currently learning basic C# and redis
 - 💞️ I want to cooperate with an IT company
 - 📫 How to reach me maticraft580@gmail.com
 
